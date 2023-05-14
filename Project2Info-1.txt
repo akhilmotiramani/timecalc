@@ -1,0 +1,13 @@
+List of references used to acquire information
+    Used "Project 2" website on canvas to help with coding 
+    Used a website to learn how to accept an int as a user input and set it to a variable 
+		https://www.tutorialspoint.com/read-integers-from-console-in-java
+
+Explanation of any special or additional features you added, if any.
+    Added spaces between each conversion to make it easier for the user to read the output 
+
+Explanation of status, stopping point, and issues if incomplete.
+    No issues, code works fully as expected 
+
+Discuss the easy and challenging parts of the assignment. How did you overcome all or some of the challenges?
+    The most challenging part was converting seconds in terms of scaramuccis. I overcame this by using a calculator to convert one scaramucci to seconds and then dividing it by the amount of seconds the user puts
